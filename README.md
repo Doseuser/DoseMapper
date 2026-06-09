@@ -1,4 +1,3 @@
-```markdown
 # DoseMapper
 
 A high-speed, asynchronous network scanner built for performance and flexibility.  
